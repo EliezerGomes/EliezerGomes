@@ -1,6 +1,6 @@
 Olá! Eu sou o Eliezer, muito prazer. 🤝
 
-- 💻 Trabalho com front-end
+- 💻 sou desenvolvedor web fullstack
 
 - 🎮 Desenvolvedor de jogos 2d nas horas vagas
 

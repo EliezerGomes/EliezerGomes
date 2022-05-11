@@ -4,7 +4,7 @@ Olá! Eu sou o Eliezer, muito prazer. 🤝
 
 - 🎮 Desenvolvedor de jogos 2d nas horas vagas
 
-- ✍ Estudando React.js
+- ✍ Se especiaizando em Node, TypeScript e React
 
 <div align="center">
   <a href="https://github.com/EliezerGomes">

@@ -1,10 +1,8 @@
 Olá! Eu sou o Eliezer, muito prazer. 🤝
 
-- 💻 sou desenvolvedor web fullstack
+- 💻 desenvolvedor web fullstack (React, Node.js, TypeScript)
 
 - 🎮 Desenvolvedor de jogos 2d nas horas vagas
-
-- ✍ Se especiaizando em Node, TypeScript e React
 
 <div align="center">
   <a href="https://github.com/EliezerGomes">

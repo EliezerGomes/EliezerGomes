@@ -1,7 +1,7 @@
 Olá! Eu sou o Eliezer, muito prazer. 🤝
 
-- 💻 desenvolvedor web fullstack (React, Node.js, TypeScript)
-
+- 💻 desenvolvedor web backend (Node.js, TypeScript)
+- 💻 conhecimentos de frontend (React)
 - 🎮 Desenvolvedor de jogos 2d nas horas vagas
 
 <div align="center">

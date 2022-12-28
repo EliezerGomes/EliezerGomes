@@ -63,5 +63,5 @@
 <h2 align="center">Entre em contato:</h2>
 <p align="center">
 <a href = "mailto:eliezerportilho@gmail.com"><img src="https://img.shields.io/badge/Gmail-1C6B94?style=for-the-badge&logo=gmail&logoColor=white" target=" _blank"></a>
-<a href="[https://www.linkedin.com/in/leticia-pinheiro-dev/](https://www.linkedin.com/in/eliezer-de-jesus-gomes-portilho-80763221a/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-1C6B94?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/eliezer-de-jesus-gomes-portilho-80763221a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-1C6B94?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>

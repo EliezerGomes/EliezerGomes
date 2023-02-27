@@ -5,8 +5,8 @@
 <div>
 - Prazer, me chamo Eliezer 😀 <br>
 - Bacharel em sistemas de informação <br>
+- Desenvolvedor Frontend <br>
 - Desenvolvedor backend <br>
-- Conhecimentos de frontend <br>
 </div>
   
 ***************
